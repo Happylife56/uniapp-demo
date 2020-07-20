@@ -1,0 +1,32 @@
+{
+	"extEnable": true,
+	"extAppid": "wx35a06f1839079afe",
+	"ext": {
+		"busId": 36,
+		"domain": "https://deeptel.com.cn",
+		"subDomain": "https://applet-biz-api.deeptel.com.cn/shop",
+		"upload": "http://maint.deeptel.com.cn/upload/",
+		"appid": "wx35a06f1839079afe",
+		"socketdomain": "https://socket1.duofriend.com/",
+		"memberHttp": "https://member.deeptel.com.cn",
+		"style": 15,
+		"appVersion": "v1.2.4"
+	},
+
+	"pages": [
+		"pages/index/index"
+	],
+	"window": {
+		"backgroundTextStyle": "light",
+		"navigationBarBackgroundColor": "#fff",
+		"navigationBarTitleText": "",
+		"navigationBarTextStyle": "black"
+	},
+	"networkTimeout": {
+		"request": 10000,
+		"connectSocket": 10000,
+		"uploadFile": 10000,
+		"downloadFile": 10000
+	},
+	"debug": false
+}
