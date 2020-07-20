@@ -10,7 +10,7 @@ export default {
 		var result: any = await uni.request({
 			url: `${baseUrl}${url}`,
 			method
-			// data
+			data
 			// header: {}
 		});
 		const [error, res] = result;
