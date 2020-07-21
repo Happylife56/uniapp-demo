@@ -4,4 +4,7 @@ import store from './store'
 
 Vue.config.productionTip = false
 
-new App().$mount()
+import '@/styles/common.scss'
+import '@/styles/iconfont/iconfont.css'
+
+new App({store}).$mount()

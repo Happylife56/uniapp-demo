@@ -39,11 +39,7 @@ const actions = {
   }
 }
 
-const getters = {
-  getNumbers(state: configState) {
-    return state.numbers
-  }
-}
+const getters = {}
 
 export default {
   // namespaced: true,

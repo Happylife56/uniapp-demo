@@ -54,6 +54,11 @@
         "setting" : {
             "urlCheck" : true,
             "es6" : true
+        },
+        "permission" : {
+            "scope.userLocation" : {
+                "desc" : "你的位置信息将用于获取附近的门店"
+            }
         }
     },
     "mp-alipay" : {
