@@ -27,16 +27,5 @@ export default {
 		socketdomain: 'https://socket1.duofriend.com/',
 		memberHttp: 'https://nbmember.deeptel.com.cn/',
 		style: '15'
-	},
-	MASTER: {
-		//正式
-		busId: 2924,
-		domain: 'https://duofriend.com',
-		upload: 'http://maint.duofriend.com/upload/',
-		appid: 'wx36765b4e20159ae1',
-		subDomain: 'https://applet-biz-api.duofriend.com/shop',
-		socketdomain: 'https://socket1.duofriend.com/',
-		memberHttp: 'https://member.duofriend.com/',
-		style: '15'
 	}
 };
