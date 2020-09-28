@@ -13,7 +13,7 @@ export default {
 		subDomain: 'https://applet-biz-api.deeptel.com.cn/shop',
 		upload: 'http://maint.deeptel.com.cn/upload/',
 		appid: 'wx35a06f1839079afe',
-		socketdomain: 'https://socket1.duofriend.com/',
+		socketdomain: '',
 		memberHttp: 'https://member.deeptel.com.cn',
 		style: '15'
 	},
@@ -24,7 +24,7 @@ export default {
 		upload: 'http://maint.deeptel.com.cn/upload/',
 		appid: 'wx111aaf23005096ab',
 		subDomain: 'https://nbapplet-biz-api.deeptel.com.cn/shop',
-		socketdomain: 'https://socket1.duofriend.com/',
+		socketdomain: '',
 		memberHttp: 'https://nbmember.deeptel.com.cn/',
 		style: '15'
 	}
